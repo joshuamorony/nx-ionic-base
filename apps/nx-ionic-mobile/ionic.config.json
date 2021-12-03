@@ -1,0 +1,7 @@
+{
+  "name": "nx-ionic-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
